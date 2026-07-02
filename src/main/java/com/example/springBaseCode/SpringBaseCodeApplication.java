@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringBaseCodeApplication {
-
+	// 안녕!
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBaseCodeApplication.class, args);
 	}
